@@ -25,7 +25,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "083b480c704835c0eac2",
-    "url": "/js/about.5d688836.js"
+    "url": "/vue-babylon-ts-demo/js/about.5d688836.js"
   },
   {
     "revision": "65b5a179c03f9fcdf1f4c1ee38ecc072",
@@ -69,7 +69,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "4ed8ec7ed43e82a08b61",
-    "url": "/js/chunk-vendors.73295c74.js"
+    "url": "/vue-babylon-ts-demo/js/chunk-vendors.73295c74.js"
   },
   {
     "revision": "7e69fcd689662dc753649da1ba923fad",
@@ -81,7 +81,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "66ad9715ca572d3f022e",
-    "url": "/js/app.a5529c09.js"
+    "url": "/vue-babylon-ts-demo/js/app.a5529c09.js"
   },
   {
     "revision": "39288e21816baccb501b0abae76ac560",
@@ -217,11 +217,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "d5e288e03f9ae0794a7276d7d75cb94c",
-    "url": "/css/base.css"
+    "url": "/vue-babylon-ts-demo/css/base.css"
   },
   {
     "revision": "66ad9715ca572d3f022e",
-    "url": "/css/app.7a136f3a.css"
+    "url": "/vue-babylon-ts-demo/css/app.7a136f3a.css"
   },
   {
     "revision": "9e63af427d1cacebd12b798f9fe69203",
