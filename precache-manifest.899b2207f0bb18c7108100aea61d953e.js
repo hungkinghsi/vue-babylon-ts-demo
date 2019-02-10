@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "21efabc4798fee7248852d0777f0517c",
-    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/Building_V01_C.png"
+    "revision": "bf959c2e1ab03286d59d8026c6da4323",
+    "url": "/vue-babylon-ts-demo/libs/cannon.js"
   },
   {
     "revision": "59b041fa7507aae76a118f6a8fa2ced1",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/streetenvironment/demo1.babylon.manifest"
   },
   {
-    "revision": "f7907210137004bda527f32134fec7a6",
-    "url": "/vue-babylon-ts-demo/scenes/girl1/WitchApprentice_w_rage.tga"
+    "revision": "628394bb14bfd8d8482b6ddfa0cb632d",
+    "url": "/vue-babylon-ts-demo/scenes/skybox/FullMoonRight.jpg"
   },
   {
     "revision": "083b480c704835c0eac2",
@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/cat/cat.babylon.manifest"
   },
   {
-    "revision": "a6d70e66057d289577328e165224919d",
-    "url": "/vue-babylon-ts-demo/scenes/demo1.babylon"
-  },
-  {
     "revision": "e6d5d272e7d124777016aa87b9de2501",
     "url": "/vue-babylon-ts-demo/scenes/demo1.babylon.manifest"
   },
@@ -48,40 +44,44 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/dog/dog.babylon.manifest"
   },
   {
-    "revision": "88e542f2295cc291b1a4067b61b30492",
-    "url": "/vue-babylon-ts-demo/scenes/girl1/girl1.babylon.manifest"
+    "revision": "a6d70e66057d289577328e165224919d",
+    "url": "/vue-babylon-ts-demo/scenes/demo1.babylon"
   },
   {
     "revision": "88e542f2295cc291b1a4067b61b30492",
     "url": "/vue-babylon-ts-demo/scenes/dog1/dog.babylon.manifest"
   },
   {
-    "revision": "6db8454d06a409008c4f764f35efc661",
-    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building 01_c.tga"
+    "revision": "88e542f2295cc291b1a4067b61b30492",
+    "url": "/vue-babylon-ts-demo/scenes/girl1/girl1.babylon.manifest"
   },
   {
-    "revision": "857c7979f89a0d2da5016af2d0df3e37",
-    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building03_c.tga"
+    "revision": "fedbd57736cc1c933ce4abd778986166",
+    "url": "/vue-babylon-ts-demo/scenes/dog/Tex_0369_0.tga"
+  },
+  {
+    "revision": "6db8454d06a409008c4f764f35efc661",
+    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building 01_c.tga"
   },
   {
     "revision": "86a429e2eb2fc8360bf044b32372f92c",
     "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building05 _c.tga"
   },
   {
-    "revision": "4ed8ec7ed43e82a08b61",
-    "url": "/vue-babylon-ts-demo/js/chunk-vendors.73295c74.js"
-  },
-  {
     "revision": "7e69fcd689662dc753649da1ba923fad",
     "url": "/vue-babylon-ts-demo/scenes/skybox1/TropicalSunnyDayDown.jpg"
   },
   {
-    "revision": "4ef171a74f2dfc120b7e",
-    "url": "/vue-babylon-ts-demo/js/app.27738a04.js"
+    "revision": "4ed8ec7ed43e82a08b61",
+    "url": "/vue-babylon-ts-demo/js/chunk-vendors.73295c74.js"
   },
   {
     "revision": "39288e21816baccb501b0abae76ac560",
     "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building_016_c.tga"
+  },
+  {
+    "revision": "98ab183bc0bb2ff4b83b",
+    "url": "/vue-babylon-ts-demo/js/app.a2c04bfe.js"
   },
   {
     "revision": "3fcecf54c32a050fedcb0e5d4b4665d9",
@@ -104,32 +104,32 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/skybox/FullMoonFront.jpg"
   },
   {
-    "revision": "d7fdabbf13747c41413aa6ae6858d1af",
-    "url": "/vue-babylon-ts-demo/scenes/skybox/FullMoonBack.jpg"
-  },
-  {
     "revision": "b2eca71eb9aa05f687999e397494508c",
-    "url": "/libs/Oimo.js"
+    "url": "/vue-babylon-ts-demo/libs/Oimo.js"
   },
   {
     "revision": "ecdebbc0a6fc6ac48636d9ce87736b2c",
     "url": "/vue-babylon-ts-demo/scenes/cat/cat.obj"
   },
   {
-    "revision": "fedbd57736cc1c933ce4abd778986166",
-    "url": "/vue-babylon-ts-demo/scenes/dog/Tex_0369_0.tga"
+    "revision": "d7fdabbf13747c41413aa6ae6858d1af",
+    "url": "/vue-babylon-ts-demo/scenes/skybox/FullMoonBack.jpg"
   },
   {
-    "revision": "bf959c2e1ab03286d59d8026c6da4323",
-    "url": "/libs/cannon.js"
+    "revision": "857c7979f89a0d2da5016af2d0df3e37",
+    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building03_c.tga"
+  },
+  {
+    "revision": "21efabc4798fee7248852d0777f0517c",
+    "url": "/vue-babylon-ts-demo/scenes/streetenvironment/Building_V01_C.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
+    "url": "/vue-babylon-ts-demo/robots.txt"
   },
   {
-    "revision": "628394bb14bfd8d8482b6ddfa0cb632d",
-    "url": "/vue-babylon-ts-demo/scenes/skybox/FullMoonRight.jpg"
+    "revision": "f7907210137004bda527f32134fec7a6",
+    "url": "/vue-babylon-ts-demo/scenes/girl1/WitchApprentice_w_rage.tga"
   },
   {
     "revision": "4fffd1b1b6f285556ea1af94bbfce153",
@@ -156,12 +156,12 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/girl1/WitchApprentice_Top_w_diff.tga"
   },
   {
-    "revision": "cf44ed6457af61603aa43e4d4de2539f",
-    "url": "/vue-babylon-ts-demo/scenes/skybox1/TropicalSunnyDayFront.jpg"
-  },
-  {
     "revision": "908e998e41e1fa36c288401fbe2b8713",
     "url": "/vue-babylon-ts-demo/scenes/skybox1/TropicalSunnyDayRight.jpg"
+  },
+  {
+    "revision": "cf44ed6457af61603aa43e4d4de2539f",
+    "url": "/vue-babylon-ts-demo/scenes/skybox1/TropicalSunnyDayFront.jpg"
   },
   {
     "revision": "f69382630424c9b4743b9f3e0f32be1d",
@@ -180,12 +180,12 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/dog/dog.babylon"
   },
   {
-    "revision": "d366d9cd6969548259f76f58d2ba9156",
-    "url": "/vue-babylon-ts-demo/scenes/dog/Tex_0552_7.tga"
-  },
-  {
     "revision": "df35c4e8d9a5c6d40743375203084f8f",
     "url": "/vue-babylon-ts-demo/scenes/cat/cat_spec.tga"
+  },
+  {
+    "revision": "d366d9cd6969548259f76f58d2ba9156",
+    "url": "/vue-babylon-ts-demo/scenes/dog/Tex_0552_7.tga"
   },
   {
     "revision": "7a16459739e45b96abe023075d43efdf",
@@ -212,7 +212,7 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/scenes/streetenvironment/building 06_ c.tga"
   },
   {
-    "revision": "dd66ecf38499f7a47b96df896f6d7f00",
+    "revision": "256f35f2ba629b2cebe8f88906ef44f3",
     "url": "/vue-babylon-ts-demo/index.html"
   },
   {
@@ -220,7 +220,7 @@ self.__precacheManifest = [
     "url": "/vue-babylon-ts-demo/css/base.css"
   },
   {
-    "revision": "4ef171a74f2dfc120b7e",
+    "revision": "98ab183bc0bb2ff4b83b",
     "url": "/vue-babylon-ts-demo/css/app.7a136f3a.css"
   },
   {
