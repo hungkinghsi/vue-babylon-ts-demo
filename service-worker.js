@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/vue-babylon-ts-demo/precache-manifest.899b2207f0bb18c7108100aea61d953e.js"
+  "/vue-babylon-ts-demo/precache-manifest.73d96528c52b71464cd27f6460d82180.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ts-js-demo"});
