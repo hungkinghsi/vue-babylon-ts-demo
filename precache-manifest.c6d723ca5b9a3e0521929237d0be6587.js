@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "b2eca71eb9aa05f687999e397494508c",
-    "url": "/libs/Oimo.js"
+    "url": "/vue-babylon-ts-demo/libs/Oimo.js"
   },
   {
     "revision": "ecdebbc0a6fc6ac48636d9ce87736b2c",
@@ -121,7 +121,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "bf959c2e1ab03286d59d8026c6da4323",
-    "url": "/libs/cannon.js"
+    "url": "/vue-babylon-ts-demo/libs/cannon.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
